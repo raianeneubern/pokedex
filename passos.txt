@@ -1,0 +1,12 @@
+Configurar o GIT Local
+git config --global user.name raianeneubern
+git config --global user.email raianeneubern@gmail.com
+
+MVC: padrão de codificar m movel, v view, c c#
+
+Criar um projeto MVC com C#
+dotnet new mvc -o Pokedex
+
+Executar o projeto
+cd Pokedex
+dotnet watch run
