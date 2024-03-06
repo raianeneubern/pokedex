@@ -10,3 +10,5 @@ dotnet new mvc -o Pokedex
 Executar o projeto
 cd Pokedex
 dotnet watch run
+
+Paramos na Página 119 no dia 06/03
